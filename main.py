@@ -10,6 +10,7 @@ while i >= 0:
         print('Tugri topdingiz !!! ')
         break
     i -= 1
+
     gusses += 1
     if gusses > 3:
         print('Siz yutqazdingiz')
